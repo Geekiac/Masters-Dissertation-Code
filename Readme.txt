@@ -1,3 +1,5 @@
+Have a look at IMAT5314-Further Work Project.v9.pdf for an overview of this project
+
 PLEASE NOTE
 ===========
 
