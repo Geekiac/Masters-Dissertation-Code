@@ -1,0 +1,25 @@
+<sentence(.*)is-fw="False">(.*)(((promising|further|future) (work|research|direction|development|improve(d|ment)|study|perspective|topic|optimi[sz]ed|optimi[sz]ation)(s|es|ies)?)|will be interesting|need to (extend|explore)|(plan|intend) to|remains|open (research )?(question|challenge|problem)(s)?|research direction)
+
+<sentence(.*)is-fw="False">(.*)(aim (at|to))
+
+<sentence(.*)is-fw="False"> further work
+<sentence(.*)is-fw="False"> further research
+<sentence(.*)is-fw="False"> future work
+<sentence(.*)is-fw="False"> promising researchs
+<sentence(.*)is-fw="False"> future researches
+<sentence(.*)is-fw="False"> future direction
+<sentence(.*)is-fw="False"> promising directions
+<sentence(.*)is-fw="False"> further directiones
+
+
+
+
+(
+  (
+    (promising|further|future) (work|research|direction|development|improve(d|ment)|study|perspective|topic|optimi[sz]ed|optimi[sz]ation)(s|es|ies)?
+  )|
+  will be interesting|
+  need to (extend|explore)|
+  (plan|intend) to|remains|open (research )?(question|challenge|problem)(s)?|
+  research direction
+)
